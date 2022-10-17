@@ -1,16 +1,16 @@
 body
 {
-    background-color:#BBDEFB;
+    background:linear-gradient(#0088ff, #ff0000)
 }
 h1
 {
-    color:#DD2C00;
+    color:rgb(255, 255, 255);
     font-family: 'Oswald', sans-serif;
 }
 h3
 {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color:firebrick;
+    color:rgb(255, 255, 255);
 }
 #twitter
 {

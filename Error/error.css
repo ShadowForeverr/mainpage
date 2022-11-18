@@ -1,0 +1,21 @@
+html
+{
+    height:100%;
+    font-family: 'Oswald', sans-serif;
+    font:black
+}
+body
+{
+    background:linear-gradient(#0088ff 25%, white 75%)    
+}
+#eee
+{
+    text-decoration: none;
+    color:black;
+}
+h4
+{
+    color:blue;
+    text-decoration:underline;
+    cursor:not-allowed;
+}
